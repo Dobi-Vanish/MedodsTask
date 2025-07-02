@@ -33,6 +33,7 @@
    docker-compose -f docker-compose.yml up -d
 ### Пример успешного запроса
  Запуск коллекции в Postman для проверки:  
+ 
 ![Без имени](https://github.com/user-attachments/assets/1a800bf0-dcd1-4705-8c61-b3e13dd54eed)
 
 
